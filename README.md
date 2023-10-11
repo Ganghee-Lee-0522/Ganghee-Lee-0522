@@ -1,7 +1,3 @@
-<div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5DDDD&height=200&section=header)
-
 # 이강희 | Ganghee Lee
 #### I'm interested in Spring Boot(Java) and Cloud computing these days. 😄
 
@@ -29,8 +25,3 @@
 ##  ⚡ How many problems have I solved?
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangjjang5)](https://solved.ac/gangjjang5)
-
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F5DDDD&height=200&section=footer)
-
-
-  </div>
