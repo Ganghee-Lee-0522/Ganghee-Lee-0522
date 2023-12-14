@@ -4,6 +4,7 @@
 </br></br>
 
 ## ⚡ Experiences
+- Member of JOY STUDIO (2023.11 - Present)
 - Member of Goormthon Univ. EWHA 1st (2023.10 - Present)
 - Core Member of Google Developer Student Clubs EWHA 5th (2023.09 - Present)
 - Club Executive of IT Club Cotato 7th (2023.07 - 2023.08)
