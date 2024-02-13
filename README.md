@@ -17,7 +17,7 @@
 </br></br>
 
 ## ⚡ Achievements and Certifications
-- Excellence Award(3rd Place) - GDSC-snowflowerthon (2024.01)
+- Excellence Award(3rd Place) - GDSC_snowflowerthon (2024.01)
 - Silver Award(2nd Place) - The 1st Cotato Hackathon (2023.07)
 - Encouragement Award(3rd Place) - 2023 EWHA Womans University capstone design project (2023.05)
 - Silver Award(2nd Place) - 2022 Ewha Engineering Capstone Design Contest (2022.12)
