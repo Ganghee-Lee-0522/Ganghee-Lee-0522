@@ -33,6 +33,7 @@
 ## ⚡ Achievements and Certifications
 
 **2024**
+- Global Top 100 | [2024 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.04
 - Excellence Award(3rd Place) | GDSC Snowflowerthon | 2024.01
 
 **2023**
@@ -41,7 +42,7 @@
 
 **2022**
 - Silver Award(2nd Place) | 2022 Ewha Engineering Capstone Design Contest | 2022.12
-- LEVEL 3 | TOPCIT | 2022.10
+- LEVEL 3 | [TOPCIT](https://www.topcit.or.kr/introduction/topcit.do) | 2022.10
 
 </br></br>
 
