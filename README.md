@@ -33,7 +33,8 @@
 ## ⚡ Achievements and Certifications
 
 **2024**
-- Global Top 100 | [2024 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.04
+- 2024 Final Top 10 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.05
+- 2024 Global Top 100 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.04
 - Excellence Award(3rd Place) | GDSC Snowflowerthon | 2024.01
 
 **2023**
