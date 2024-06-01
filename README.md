@@ -1,5 +1,5 @@
 # 이강희 | Ganghee Lee
-#### 🌈💭 Hi, I'm a computer engineering student aspiring to become a backend developer who brightens the world with positive influence.
+#### 🌈💭 Hi, I'm a student aspiring to become a backend developer who brightens the world with positive influence.
 
 </br>
 
