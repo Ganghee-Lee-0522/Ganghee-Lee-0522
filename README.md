@@ -1,5 +1,6 @@
 # 이강희 | Ganghee Lee
-#### I'm interested in Spring Boot(Java) and Cloud computing these days. 😄🚀
+#### 🌈💭 "I am Ganghee Lee, a computer engineering student aspiring to become a backend developer who brightens the world with positive influence."
+#### interested in Spring Boot(Java) and Cloud computing these days. 😄🚀
 
 </br></br>
 
