@@ -45,7 +45,7 @@
 - Silver Award(2nd Place) | 2022 Ewha Engineering Capstone Design Contest | 2022.12
 - LEVEL 3 | [TOPCIT](https://www.topcit.or.kr/introduction/topcit.do) | 2022.10
 
-</br></br>
+</br>
 
 ##  ⚡ How many problems have I solved?
  [![Solved.ac
