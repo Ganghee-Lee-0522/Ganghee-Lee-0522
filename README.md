@@ -11,10 +11,10 @@
 </br>
 
 **2023**
-- JOY STUDIO | Backend Developer | 2023.11 ~ now
+- start-up team JOY STUDIO | Backend Developer | 2023.11 ~ now
 - Goormthon Univ. EWHA | Backend Developer | 2023.10 ~ 2023.12
 - devfest Cloud 2023 | Organizer | 2023.10 ~ 2023.12
-- Google Developer Student Clubs EWHA | DevRel Core | 2023.09 ~ now
+- Google Developer Student Clubs EWHA | DevRel Core | 2023.09 ~ 2024.06
 - The 2nd Cotato Hackathon | Backend Developer | 2023.08
 - The 1st Cotato Hackathon | Backend Developer | 2023.07
 - Cotato 6th, 7th | Backend Developer | 2023.03 ~ 2023.08
