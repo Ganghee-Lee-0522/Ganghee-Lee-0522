@@ -6,12 +6,13 @@
 ## ⚡ Experiences
 
 **2024**
+- start-up team Basement02 | 2024.07 ~ now
 - SKT DEVOCEAN YOUNG 3rd | 2024.02 ~ now
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
 
 **2023**
-- start-up team JOY STUDIO | Backend Developer | 2023.11 ~ now
+- start-up team JOY STUDIO | Backend Developer | 2023.11 ~ 2024.06
 - Goormthon Univ. EWHA | Backend Developer | 2023.10 ~ 2023.12
 - devfest Cloud 2023 | Organizer | 2023.10 ~ 2023.12
 - Google Developer Student Clubs EWHA | DevRel Core | 2023.09 ~ 2024.06
