@@ -8,6 +8,7 @@
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
 - SKT DEVOCEAN YOUNG 3rd | 2024.02 ~ now
+- team ZPE | 2024.01 ~ now
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
 
