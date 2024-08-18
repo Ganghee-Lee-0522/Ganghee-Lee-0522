@@ -9,6 +9,7 @@
 - start-up team Basement02 | 2024.07 ~ now
 - 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ now
 - SKT DEVOCEAN YOUNG 3rd | Backend Developer | 2024.02 ~ now
+- Google Solution Challenge | team ZPE | 2024.01 ~ 2024.06
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
 
