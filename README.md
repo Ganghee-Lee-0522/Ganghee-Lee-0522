@@ -7,13 +7,13 @@
 
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
-- SKT DEVOCEAN YOUNG 3rd | 2024.02 ~ now
-- team ZPE | 2024.01 ~ now
+- SKT DEVOCEAN YOUNG 3rd | Backend Developer | 2024.02 ~ now
+- 이화여대 18기 도전학기 | team ZPE | 2024.01 ~ now
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
 
 **2023**
-- start-up team JOY STUDIO | Backend Developer | 2023.11 ~ 2024.06
+- 이화여대 17기 도전학기 | start-up team JOY STUDIO | 2023.11 ~ 2024.06
 - Goormthon Univ. EWHA | Backend Developer | 2023.10 ~ 2023.12
 - devfest Cloud 2023 | Organizer | 2023.10 ~ 2023.12
 - Google Developer Student Clubs EWHA | DevRel Core | 2023.09 ~ 2024.06
