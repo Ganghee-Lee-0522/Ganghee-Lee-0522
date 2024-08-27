@@ -36,6 +36,7 @@
 ## ⚡ Achievements and Certifications
 
 **2024**
+- 최우수상 | [SKT TECH4GOOD 해커톤](https://n.news.naver.com/article/241/0003374870?sid=105) | 2024.08
 - 최우수상, 베스트 발표상 | [2024 제1회 전국대학 소프트웨어 성과 공유포럼](https://news.mt.co.kr/mtview.php?no=2024081211292780302) | 2024.08
 - 2024 Final Top 10 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.05
 - 2024 Global Top 100 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.04
