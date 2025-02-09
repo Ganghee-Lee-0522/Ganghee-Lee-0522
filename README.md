@@ -7,8 +7,8 @@
 
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
-- 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ now
-- SKT DEVOCEAN YOUNG 3rd | Tech Influencer(Backend Developer) | 2024.02 ~ now
+- 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ 2024.12
+- SKT DEVOCEAN YOUNG 3rd | Tech Influencer(Backend Developer) | 2024.02 ~ 2024.12
 - Google Solution Challenge | team ZPE | 2024.01 ~ 2024.06
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
@@ -34,6 +34,9 @@
 </br></br>
 
 ## ⚡ Achievements and Certifications
+
+**2025**
+- 우수상 | 이화여대 18기 도전학기 | 2025.01
 
 **2024**
 - 우수상 | 2024 이화여자대학교 캠퍼스타운 창업탐색 경진대회 | 2024.11
