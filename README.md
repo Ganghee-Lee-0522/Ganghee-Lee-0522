@@ -8,7 +8,7 @@
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
 - 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ 2024.12
-- SKT DEVOCEAN YOUNG 3rd | Tech Influencer(Backend Developer) | 2024.02 ~ 2024.12
+- SK텔레콤 DEVOCEAN YOUNG 3rd | Tech Influencer(Backend Developer) | 2024.02 ~ 2024.12
 - Google Solution Challenge | team ZPE | 2024.01 ~ 2024.06
 - GDSC Snowflowerthon | Backend Developer | 2024.01
 </br>
@@ -36,26 +36,27 @@
 ## ⚡ Achievements and Certifications
 
 **2025**
-- 우수상 | 이화여대 18기 도전학기 | 2025.01
+- 우수사례 | 이화여대 18기 도전학기 (이화여대 미래혁신센터) | 2025.01
 
 **2024**
-- 우수상 | 2024 이화여자대학교 캠퍼스타운 창업탐색 경진대회 | 2024.11
-- 최우수상 | [SKT TECH4GOOD 해커톤](https://n.news.naver.com/article/241/0003374870?sid=105) | 2024.08
-- 최우수상, 베스트 발표상 | [2024 제1회 전국대학 소프트웨어 성과 공유포럼](https://news.mt.co.kr/mtview.php?no=2024081211292780302) | 2024.08
-- 2024 Final Top 10 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.05
-- 2024 Global Top 100 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) | 2024.04
-- Excellence Award(3rd Place) | GDSC Snowflowerthon | 2024.01
+- 우수상 | 2024 이화여자대학교 캠퍼스타운 창업탐색 경진대회 (이화여대 창업지원단) | 2024.11
+- 최우수상 | [TECH4GOOD 해커톤](https://n.news.naver.com/article/241/0003374870?sid=105) (SK텔레콤, 하나금융그룹) | 2024.08
+- 최우수상, 베스트 발표상 | [2024 제1회 전국대학 소프트웨어 성과 공유포럼](https://news.mt.co.kr/mtview.php?no=2024081211292780302) (부산광역시, 과학기술정보통신부, IITP) | 2024.08
+- 2024 Final Top 10 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) (Google) | 2024.05
+- 입상 | 2024 창업탐색 해커톤 (이화여대 창업지원단) | 2024.05
+- 2024 Global Top 100 | [Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners) (Google) | 2024.04
+- Excellence Award(3rd Place) | GDSC Snowflowerthon (Google Developer Student Clubs) | 2024.01
 
 **2023**
-- Silver Award(2nd Place) | The 1st Cotato Hackathon | 2023.07
-- Encouragement Award(3rd Place) | 2023 EWHA Womans University capstone design project | 2023.05
+- Silver Award(2nd Place) | The 1st Cotato Hackathon (IT 연합동아리 코테이토) | 2023.07
+- Encouragement Award(3rd Place) | 2023 EWHA Womans University capstone design project (이화여대 컴퓨터공학전공) | 2023.05
 
 **2022**
-- Silver Award(2nd Place) | 2022 Ewha Engineering Capstone Design Contest | 2022.12
+- Silver Award(2nd Place) | 2022 Ewha Engineering Capstone Design Contest (이화여대 엘텍공대 공학교육혁신센터) | 2022.12
 - LEVEL 3 | [TOPCIT](https://www.topcit.or.kr/introduction/topcit.do) | 2022.10
 
 </br>
 
-##  ⚡ How many problems have I solved?
+##  ⚡ How many # have I solved?
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangjjang5)](https://solved.ac/gangjjang5)
