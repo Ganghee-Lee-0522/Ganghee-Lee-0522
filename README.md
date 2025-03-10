@@ -10,7 +10,7 @@
 - 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ 2024.12
 - SK텔레콤 DEVOCEAN YOUNG 3rd | Tech Influencer(Backend Developer) | 2024.02 ~ 2024.12
 - Google Solution Challenge | team ZPE | 2024.01 ~ 2024.06
-- GDSC Snowflowerthon | Backend Developer | 2024.01
+- Google Developer Student Clubs Snowflowerthon | Backend Developer | 2024.01
 </br>
 
 **2023**
