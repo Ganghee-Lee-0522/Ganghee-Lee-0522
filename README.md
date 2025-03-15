@@ -7,6 +7,7 @@
 
 **2025**
 - AWS Cloud Clubs EWHA | 2025.03 ~ now
+</br>
 
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
