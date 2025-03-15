@@ -5,6 +5,9 @@
 
 ## ⚡ Experiences
 
+**2025**
+- AWS Cloud Clubs EWHA | 2025.03 ~ now
+
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
 - 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ 2024.12
