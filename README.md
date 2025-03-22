@@ -24,12 +24,10 @@
 - Google Developer Student Clubs EWHA | DevRel Core | 2023.09 ~ 2024.06
 - The 2nd Cotato Hackathon | Backend Developer | 2023.08
 - The 1st Cotato Hackathon | Backend Developer | 2023.07
-- Cotato 6th, 7th | Backend Developer | 2023.03 ~ 2023.08
 </br>
 
 **2022**
-- Cotato 4th, 5th | Club Leader, Backend Developer | 2022.09 ~ 2023.02
-- Cotato 3rd | Backend Developer | 2022.07 ~ 2022.08
+- Cotato | Club Leader, Backend Developer | 2022.07 ~ 2023.08
 </br>
 
 **2020**
