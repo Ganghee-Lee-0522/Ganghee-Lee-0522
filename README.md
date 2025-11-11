@@ -5,6 +5,9 @@
 
 ## ⚡ Experiences
 
+**2025**
+- AWS Cloud Club Ewha | 2025.03 ~ 2025.08
+
 **2024**
 - start-up team Basement02 | 2024.07 ~ now
 - 이화여대 18기 도전학기 | team ZPE | 2024.05 ~ 2024.12
@@ -34,6 +37,7 @@
 ## ⚡ Achievements and Certifications
 
 **2025**
+- sqld | 한국데이터산업진흥원 | 2025.06
 - 우수사례 | 이화여대 18기 도전학기 (이화여대 미래혁신센터) | 2025.01
 
 **2024**
