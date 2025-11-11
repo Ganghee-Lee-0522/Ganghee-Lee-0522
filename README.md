@@ -1,5 +1,5 @@
-# 이강희 | Ganghee Lee
-#### 🌈💭 Hi there! I'm Ganghee Lee - passionate about growing by creating user-centered services.
+# 이강희 | Lee Ganghee
+#### 🌈💭 Hi there! I'm Lee Ganghee - passionate about growing by creating user-centered services.
 
 </br>
 
